@@ -18,9 +18,5 @@ make devserver
 Deploy:
 
 ```
-make ssh_upload
+make rsync_upload
 ```
-
-
-
-
