@@ -20,10 +20,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('About us', '/about-us.html'),
+         ('Top', '/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -44,11 +42,6 @@ SITELOGO = SITEURL + '/images/profile.jpg'
 
 DESCRIPTION = 'A functional, clean, responsive theme for Pelican. Heavily ' \
               'inspired by crowsfoot and clean-blog, powered by Bootstrap.'
-ICONS = (
-    ('github', 'https://github.com/nairobilug/pelican-alchemy'),
-)
-PYGMENTS_STYLE = 'default'
 
-PYGMENTS_STYLE = 'default'
 
 RFG_FAVICONS = True
