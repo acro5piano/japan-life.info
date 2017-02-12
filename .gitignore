@@ -1,4 +1,3 @@
-/output
 ### https://raw.github.com/github/gitignore/4077c79bfb552a6e3ed92cd510873f4e796ab661/Python.gitignore
 
 # Byte-compiled / optimized / DLL files
@@ -95,3 +94,5 @@ ENV/
 
 srv.pid
 pelican.pid
+
+/output

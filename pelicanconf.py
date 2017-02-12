@@ -31,7 +31,24 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = './themes/pelican-alchemy'
+THEME = './themes/Flex'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+
+SITESUBTITLE = "Introduce Foreigner's Life in Japan"
+
+SITELOGO = SITEURL + '/images/profile.jpg'
+
+
+DESCRIPTION = 'A functional, clean, responsive theme for Pelican. Heavily ' \
+              'inspired by crowsfoot and clean-blog, powered by Bootstrap.'
+ICONS = (
+    ('github', 'https://github.com/nairobilug/pelican-alchemy'),
+)
+PYGMENTS_STYLE = 'default'
+
+PYGMENTS_STYLE = 'default'
+
+RFG_FAVICONS = True
