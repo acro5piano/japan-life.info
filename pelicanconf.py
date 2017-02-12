@@ -43,5 +43,8 @@ SITELOGO = SITEURL + '/images/profile.jpg'
 DESCRIPTION = 'A functional, clean, responsive theme for Pelican. Heavily ' \
               'inspired by crowsfoot and clean-blog, powered by Bootstrap.'
 
+STATIC_PATHS = [
+    'favicon.ico'
+]
 
 RFG_FAVICONS = True
