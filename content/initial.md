@@ -13,7 +13,9 @@ This media aims to introduce foreigner's life in Japan.
 Japan, third's largest GDP in the world, has a lot of interesting charactors, beautiful sites, kind people.
 They will be definately attractive for you.
 
-But sometimes living in Japan is difficult for foreigners.
+# Its difficulty
+
+Sometimes living in Japan is difficult for foreigners.
 
 For example, renting house without any help of your family, school, company is suprisingly hard.
 It means that living in Japan for working has some difficulity.

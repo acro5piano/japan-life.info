@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Kazuya Gosho'
 SITENAME = 'Japan Life'
-SITEURL = ''
+SITEURL = 'http://japan-life.info/'
 
 PATH = 'content'
 
