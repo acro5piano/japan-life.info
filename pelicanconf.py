@@ -38,7 +38,7 @@ SITESUBTITLE = "Introduce Foreigner's Life in Japan"
 
 SITELOGO = SITEURL + '/images/profile.jpg'
 
-DESCRIPTION = "Introduce Foreigner's Life in Japan"
+SITEDESCRIPTION = "Introduce Foreigner's Life in Japan"
 
 STATIC_PATHS = [
     'favicon.ico',
