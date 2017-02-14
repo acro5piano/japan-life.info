@@ -17,11 +17,13 @@ They will be definately attractive for you.
 
 Sometimes living in Japan is difficult for foreigners.
 
-For example, renting house without any help of your family, school, company is suprisingly hard.
-It means that living in Japan for working has some difficulity.
+For example, renting house without any help of your family, school, company is surprisingly hard.
+It means that living in Japan for working is sometimes difficult.
 
-Also, Japan still has the culture of "Hanko".
-which is classic stump system for applying documents to banks, government office, and so on.
-You will go mad when you asked "Do you have your own stump? It will prove who you are".
+Also, Japan still has the culture of "Hanko",
+which is the classic stump system for applying documents to banks, government office, and so on.
+You will go mad when you are asked "Do you have your own stump?".
+
+It will prove who you are in Japan.
 
 We want to help foreigners not to go mad facing these issues.
