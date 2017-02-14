@@ -1,10 +1,9 @@
-Title: Japan life
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Title: Japan Life
+Date: 2017-02-14 23:50
+Modified: 2017-02-14 23:50
 Category: Japan
 Tags: Japan
 Slug: about-us
-Authors: Kazuya Gosho
 
 # Japan life - Thoughtful, Funny, Attractive
 
