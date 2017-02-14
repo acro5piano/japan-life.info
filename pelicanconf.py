@@ -34,14 +34,11 @@ THEME = './themes/Flex'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-
 SITESUBTITLE = "Introduce Foreigner's Life in Japan"
 
 SITELOGO = SITEURL + '/images/profile.jpg'
 
-
-DESCRIPTION = 'A functional, clean, responsive theme for Pelican. Heavily ' \
-              'inspired by crowsfoot and clean-blog, powered by Bootstrap.'
+DESCRIPTION = "Introduce Foreigner's Life in Japan"
 
 STATIC_PATHS = [
     'favicon.ico',
