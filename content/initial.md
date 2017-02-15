@@ -7,6 +7,8 @@ Slug: about-us
 
 # Japan life - Thoughtful, Funny, Attractive
 
+![hanko](/images/hanko.gif)
+
 This media aims to introduce foreigner's life in Japan.
 
 Japan, third's largest GDP in the world, has a lot of interesting charactors, beautiful sites, kind people.
