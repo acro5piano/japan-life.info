@@ -48,11 +48,10 @@ STATIC_PATHS = [
 
 RFG_FAVICONS = True
 
-GOOGLE_ANALYTICS = 'UA-91957417-1'
 
 CUSTOM_CSS = 'css/custom.css'
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['better_figures_and_images']
+#PLUGINS = ['better_figures_and_images']
 
 RESPONSIVE_IMAGES = True
