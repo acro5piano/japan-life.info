@@ -34,7 +34,7 @@ THEME = './themes/Flex'
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-SITESUBTITLE = "Introduce Foreigner's Life in Japan"
+SITESUBTITLE = "プログラミング、Airbnb運営、台湾人彼女、その他雑多なことを書き残す"
 
 SITELOGO = SITEURL + '/images/profile.jpg'
 
