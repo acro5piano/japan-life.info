@@ -16,6 +16,6 @@ git checkout gh-pages
 ls | grep -v CNAME | grep -v node_modules | xargs rm -rf
 cp -r /tmp/dist/* .
 git add .
-git commit 'release'
+git commit -m 'release'
 git push origin gh-pages
 git checkout master
