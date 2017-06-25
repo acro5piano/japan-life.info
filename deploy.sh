@@ -1,6 +1,8 @@
 #!/bin/bash
 
-npm run production
+set -eux
+
+yarn run production
 
 # S3を使う場合
 # pip install awscli
@@ -11,7 +13,7 @@ npm run production
 
 cp -r dist /tmp
 git checkout gh-pages
-ls | grep -v CNAME | xargs rm -rf
+ls | grep -v CNAME | grep -v node_modules | xargs rm -rf
 cp -r /tmp/dist/* .
 git add .
 git commit 'release'
